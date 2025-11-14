@@ -50,5 +50,15 @@ A data-driven analysis of pizza sales to uncover key trends, customer ordering p
 ---
 
 <img width="1458" height="797" alt="Screenshot 2025-03-17 161749" src="https://github.com/user-attachments/assets/3f91b434-5ad7-4514-84f2-6e9a7f261ee1" />
+
+---
+
 <img width="1460" height="794" alt="Screenshot 2025-03-17 161808" src="https://github.com/user-attachments/assets/632fe2e0-4933-42f1-abfa-3decfe544e59" />
 
+---+
+
+## 👨‍💻 Author
+Manish Nucche  
+Aspiring Data Analyst  
+GitHub: https://github.com/ManishNucche  
+LinkedIn: https://www.linkedin.com/in/manishnucche/
