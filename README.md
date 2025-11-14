@@ -49,3 +49,5 @@ A data-driven analysis of pizza sales to uncover key trends, customer ordering p
 
 ---
 
+<img width="1458" height="797" alt="Screenshot 2025-03-17 161749" src="https://github.com/user-attachments/assets/3f91b434-5ad7-4514-84f2-6e9a7f261ee1" />
+
